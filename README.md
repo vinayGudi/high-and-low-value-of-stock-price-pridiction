@@ -5,8 +5,11 @@ This project helps to pridict the high and low price that the stock been traded 
 Sample Data adviced to use is :-
 
 Day,open,close,low 
+
 01-01-2013,10,16,11
+
 02-02-2013,12,5,1
+
 03-01-2013,45,50,12
 
 API URL:-
